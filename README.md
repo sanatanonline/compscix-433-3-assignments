@@ -5,7 +5,7 @@ This file introduces you to compscix-433-3-assignments, homeworks, midterm and f
 ### COMPSCI X433.3 - Python for Data Analysis and Scientific Computing
 
 The completed homework assignments, midterm, project work and class practices can be found here:
-https://github.com/sanatanonline/compscix-433-assignments/tree/master/src/csx_433_3
+https://github.com/sanatanonline/compscix-433-3-assignments/tree/master/src/csx_433_3
 
 ## platform/system and installation versions
 
