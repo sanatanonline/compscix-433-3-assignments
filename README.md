@@ -1,18 +1,11 @@
-# compscix-433-assignments
+# Welcome
 
-Welcome
-
-This file introduces you to compscix-433-assignments, homeworks, midterm and final projects. It has two parts.
+This file introduces you to compscix-433-3-assignments, homeworks, midterm and final projects.
 
 ### COMPSCI X433.3 - Python for Data Analysis and Scientific Computing
 
 The completed homework assignments, midterm, project work and class practices can be found here:
 https://github.com/sanatanonline/compscix-433-assignments/tree/master/src/csx_433_3
-
-### COMPSCI X433.7 - Machine Learning With TensorFlow
-
-The completed homework assignments, midterm, project work and class practices can be found here:
-https://github.com/sanatanonline/compscix-433-assignments/tree/master/src/csx_433_7
 
 ## platform/system and installation versions
 
